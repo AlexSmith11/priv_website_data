@@ -1,48 +1,71 @@
 {
- "about": [
-   "I graduated in 2019, and have since worked in web, infrastructure, and mobile roles.",
-   "I&apos;ve excellent communication and organisational skills, and highly enjoy working in a team. I&apos;m looking to learn as much as I possibly can about software engineering and computer science. From front-end dev to machine learning, I need to know it all!",
-   "When I&apos;m not doing computer stuff you&apos;ll find me on some hill hiking, biking, or climbing."
- ],
- "projects": [
-   "Tech-for-good apps such as for supporting refugee wellbeing, tree restoration and preservation, red cross first aid, and more.",
-   "A C# .NET mobile app that is essentially Amazon for pub owners, that can even operate offline.",
-   "A well known weather app used throughout the UK by millions.",
-   "A real-time, AWS hosted vehicle tracking telematics application running on EmberJS and PHP Laravel.",
-   "A retail website that features a PC builder, made with NextJS, Express and PostgreSQL.",
-   "Android app that takes all exoplanets categorised by exoplanet.eu and displays them with various ways to interact with the data."
- ],
- "skills": {
-   "Languages": [
-     "C#",
-     "Java",
-     "JavaScript",
-     "Python",
-     "PHP",
-     "Swift”"
-   ],
-   "Frameworks & Libraries": [
-     "Laravel",
-     "React",
-     ".NET",
-     "Xamarin",
-     "Node/Express",
-     "TypeScript",
-     "Angular",
-     "Redux"
-   ],
-   "Tools": [
-     "Git & GitLab",
-     "AWS",
-     "Wordpress",
-     "Netlify",
-     "Vim",
-     "Cursor",
-     "Docker",
-     "Apache",
-     "SQL",
-     "Socket.IO"
-   ]
- }
+  "about": [
+    "Hiya, I'm Alex! I have worked in software for 7 years, including web fullstack, infrastructure, and mobile roles. I'm a huge people person, thriving in focussed, close-knit teams, and love solving complex problems. Right now I'm scaling up the UK's most popular golf membership scheme into Europe!",
+    "I'm looking to learn as much as I possibly can about software engineering and computer science. From front-end dev, to embedded software, to machine learning, I need to know it all!",
+    "When I'm not doing computer stuff you'll find me on some hill hiking, biking, or climbing."
+  ],
+  "projects": [
+    {
+      "title": "Exoplanet Investigator",
+      "subtitle": "Space!",
+      "description": "My dissertation project. Provides a graphical interface for data visualisation from exoplanet.org."
+    },
+    {
+      "title": "UNHCR Connecting Worlds Family app.",
+      "subtitle": "Borderless Support.",
+      "description": "Connects donors who wish to help support refugees. Localisation and privacy were the highest concerns of this project, that helps people in need all around the world."
+    },
+    {
+      "title": "RNLI Bouy Tracking and Support",
+      "subtitle": "Afraid to get wet?",
+      "description": "A private application used to concentrate data into a single, utilitarian interface for assisting various forms of day-to-day operations."
+    },
+    {
+      "title": "Wholeseller for restaurant supplies app",
+      "subtitle": "Last orders!",
+      "description": "As the sole developer, creating this app lead to many lessons learned, being the first big project of my career."
+    },
+    {
+      "title": "MET Office App (popular weather app in the UK, 4.8s star on the app store)",
+      "subtitle": "How’s the weather?",
+      "description": "Focussed on improving the functionality, features and maintenence of a very popular app used by millions."
+    },
+    {
+      "title": "Golf Membership Platform",
+      "subtitle": "#1 in my league.",
+      "description": "Lead role in expanding the UK’s premier golf membership scheme."
+    }
+  ],
+  "skills": {
+    "Languages": [
+      "C#",
+      "Java",
+      "JavaScript",
+      "Python",
+      "PHP",
+      "Swift”"
+    ],
+    "Frameworks & Libraries": [
+      "Laravel",
+      "React",
+      ".NET",
+      "Xamarin",
+      "Node/Express",
+      "TypeScript",
+      "Angular",
+      "Redux"
+    ],
+    "Tools": [
+      "Git & GitLab",
+      "AWS",
+      "Wordpress",
+      "Netlify",
+      "Vim",
+      "Cursor",
+      "Docker",
+      "Apache",
+      "SQL",
+      "Socket.IO"
+    ]
+  }
 }
-
